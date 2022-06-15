@@ -23,5 +23,9 @@
 }
 
 /* Positioning Classes */
+/* .featured-brand{width:60%; display: inline-block; vertical-align: top;} */
+.flex-div{display: flex; justify-content: space-between; padding:10px 0;}
+.featured-brand{width:66%; }
+.col-width{width:32%;}
 
 
